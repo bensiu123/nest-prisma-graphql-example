@@ -28,6 +28,7 @@ It is also for practicing Nest.js, an OOP backend framework, and to compare it w
 - [x] Simple GraphQL API server
 - [ ] Middleware
 - [ ] Authentication
+- [ ] Unit test
 - [ ] Queue (e.g. `@nestjs/bull`, `MQTT`, `RabbitMQ`, etc.)
 - [ ] Serverless (Bundle size, cold start time)
 
